@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ea4_4_webservice/ea4_4_webservice.iml" filepath="$PROJECT_DIR$/ea4_4_webservice/ea4_4_webservice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/main/java/main.iml" filepath="$PROJECT_DIR$/src/main/java/main.iml" />
     </modules>
   </component>
 </project>
